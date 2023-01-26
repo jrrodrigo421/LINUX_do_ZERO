@@ -1,6 +1,9 @@
-#EM BREVE INFORMAÇÃOES SOBRE OS SCRIPTS
+# EM BREVE INFORMAÇÃOES SOBRE OS SCRIPTS
+=============================================================================
 
 <br>
-*By: Rodrigo Lopes*
+
+
+ * By: Rodrigo Lopes *
 
 
