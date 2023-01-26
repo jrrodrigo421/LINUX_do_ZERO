@@ -1,9 +1,9 @@
-# EM BREVE INFORMAÇÃOES SOBRE OS SCRIPTS
-=============================================================================
+# EM BREVE INFORMAÇÃES SOBRE OS SCRIPTS EM BASH
+=
 
 <br>
 
 
- * By: Rodrigo Lopes *
+ **By: Rodrigo Lopes*
 
 
