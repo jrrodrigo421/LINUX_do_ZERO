@@ -1,4 +1,4 @@
-# Infraestrutua como código:
+# Infraestrutura como código:
 Script de criação de **estrutura** de **usuários**, **diretórios** e **permissões**.
 
 *O que é?
