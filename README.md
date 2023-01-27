@@ -11,7 +11,9 @@ provisionamento do mesmo ambiente todas as vezes.*# EM BREVE INFORMAÇÃES SOBRE
 
 
 <br>
+<img src="img.png" alt="My cool logo"/>
 
+<br>
 
  * *By: Rodrigo Lopes*
 
