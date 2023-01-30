@@ -1,5 +1,6 @@
 # Infraestrutura como código:
 <br>
+
 ## Projeto 1:
 
 Script de criação de **estrutura** de **usuários**, **diretórios** e **permissões**.
@@ -19,7 +20,7 @@ provisionamento do mesmo ambiente todas as vezes.*
 
 
 
-##Projeto 2:
+## Projeto 2:
 
 
 Script de provisionamento de um 
