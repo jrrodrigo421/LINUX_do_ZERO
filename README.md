@@ -1,6 +1,8 @@
 # Bootcamp - Linux do Zero:
 
+### Documentação oficial:
 
+    https://www.debian.org/doc/index.pt.html
 
 ## Principais comandos Linux:
 
