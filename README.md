@@ -1,6 +1,6 @@
 # Bootcamp - Linux do Zero:
 
-### Documentação oficial:
+### Documentação oficial DEBIAN:
 
     https://www.debian.org/doc/index.pt.html
 
