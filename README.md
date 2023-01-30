@@ -4,16 +4,19 @@
 
 ## Principais comandos Linux:
 
-*ls: lista arquivos e diretórios
-cd: muda o diretório atual
-pwd: mostra o caminho completo do diretório atual
-mkdir: cria um novo diretório
-rm: remove arquivos e diretórios
-cp: copia arquivos e diretórios
-mv: move ou renomeia arquivos e diretórios
-cat: exibe o conteúdo de um arquivo
-echo: exibe uma mensagem ou o conteúdo de uma variável
-man: exibe o manual de um comando*
+    ls: lista arquivos e diretórios
+    cd: muda o diretório atual
+    pwd: mostra o caminho completo do diretório atual
+    mkdir: cria um novo diretório
+    rm: remove arquivos e diretórios
+    cp: copia arquivos e diretórios
+    mv: move ou renomeia arquivos e diretórios
+    cat: exibe o conteúdo de um arquivo
+    nano: cria/edita arquivos de diferente extensoes
+    echo: exibe uma mensagem ou o conteúdo de uma variável
+    man: exibe o manual de um comando
+    reboot : reinicia a maquina
+    shutdown 0: desliga a maquina
 
 <br>
 
